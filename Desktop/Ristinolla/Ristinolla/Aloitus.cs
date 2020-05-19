@@ -24,6 +24,7 @@ namespace Ristinolla
             var tiedot = new Tiedot(valinta);
             tiedot.Closed += (s, args) => this.Close();
             tiedot.Show();
+            Console.WriteLine("Testing");
         }
 
         
