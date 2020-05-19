@@ -1,0 +1,17 @@
+C:\Users\mikke\Desktop\Ristinolla\Ristinolla\bin\Debug\Ristinolla.exe.config
+C:\Users\mikke\Desktop\Ristinolla\Ristinolla\bin\Debug\Ristinolla.exe
+C:\Users\mikke\Desktop\Ristinolla\Ristinolla\bin\Debug\Ristinolla.pdb
+C:\Users\mikke\Desktop\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csprojAssemblyReference.cache
+C:\Users\mikke\Desktop\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Properties.Resources.resources
+C:\Users\mikke\Desktop\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csproj.GenerateResource.cache
+C:\Users\mikke\Desktop\Ristinolla\Ristinolla\obj\Debug\Ristinolla.exe
+C:\Users\mikke\Desktop\Ristinolla\Ristinolla\obj\Debug\Ristinolla.pdb
+C:\Users\mikke\Desktop\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Aloitus.resources
+C:\Users\mikke\Desktop\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Leaderboard.resources
+C:\Users\mikke\Desktop\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Peli.resources
+C:\Users\mikke\Desktop\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Tiedot.resources
+C:\Users\mikke\Desktop\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Vastustaja.resources
+C:\Users\mikke\Desktop\Ristinolla\Ristinolla\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mikke\Desktop\Ristinolla\Ristinolla\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mikke\Desktop\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csproj.CopyComplete
+C:\Users\mikke\Desktop\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Ladatutpelaajat.resources
